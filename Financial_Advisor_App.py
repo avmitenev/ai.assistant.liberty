@@ -165,7 +165,7 @@ def run():
 
         # Chat Interface
         st.title("Liberty's Assistant")
-        st.caption("The artificial intelligence application was trained on a selection of publicly available documents from the bank's website over a period of three days. Notably, the accuracy of its responses can be further enhanced with access to additional training materials.")
+        st.caption("The artificial intelligence application was trained on a selection of publicly available documents from the organization's website over a period of three days. Notably, the accuracy of its responses can be further enhanced with access to additional training materials.")
         st.subheader("Enquire about our range of Liberty products and services:")
         show_ui(st.session_state['chain'], "How can I assist you today?")
         st.button("Reset history", on_click=reset)
