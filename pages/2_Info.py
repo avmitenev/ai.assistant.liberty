@@ -25,7 +25,7 @@ In addition to the knowledge base, the bot also relies on the chat history durin
 
 For your convenience, we provide the following examples of test prompts and their sequences:
 * What insurance services do you have?
-* Could you explain the difference between Personal Accident Cover and HeriAfya Medical Cover
+* Could you explain the difference between Personal Accident Cover and HeriAfya Medical Cover?
 * What medical expenses included in HeriAfya Medical Cover?
 * Could you explain more about Dental care?
 """
