@@ -24,8 +24,9 @@ To upload your documents, navigate to the 'Upload data' tab located in the left-
 In addition to the knowledge base, the bot also relies on the chat history during conversations. This enables the bot to ask clarifying questions without requiring the user to reiterate the entire context. It's worth noting that, for the same reason, it's essential to clear the chat history to reset the context when changing topics. You can do this by clicking the 'Reset history' button at the end of the chat.
 
 For your convenience, we provide the following examples of test prompts and their sequences:
-* What loans can I consider?
-* I'm a merchant on a MPesa. I need a loan.
-* How can I apply for a loan?
+* What insurance services do you have?
+* Could you explain the difference between Personal Accident Cover and HeriAfya Medical Cover
+* What medical expenses included in HeriAfya Medical Cover?
+* Could you explain more about Dental care?
 """
 )
