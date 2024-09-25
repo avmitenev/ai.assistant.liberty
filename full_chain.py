@@ -21,7 +21,7 @@ def create_full_chain(retriever, repo_id="ChatGPT", hf_api_key=None, openai_api_
     
 
     system_prompt = """You are a helpful and knowledgeable financial consultant. 
-Use the provided context from Liberty bank's products and services to answer the user's questions. 
+Use the provided context from Liberty's products and services to answer the user's questions. 
 If you cannot find an answer in the context, inform the user that you need more information or that the question is outside your expertise. 
 
 Context: {context}
